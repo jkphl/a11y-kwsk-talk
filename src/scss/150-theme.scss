@@ -1,0 +1,318 @@
+body {
+	background-color: black;
+}
+
+.visually-hidden {
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+	clip: rect(1px, 1px, 1px, 1px);
+	white-space: nowrap; /* added line */
+}
+
+.handle {
+	text-transform: lowercase;
+}
+
+.separate {
+	margin-top: 2em !important;
+}
+
+.author {
+	margin-top: 2em;
+	font-size: 3vmin;
+	margin-left: 24vw;
+}
+
+section > blockquote .author {
+	margin-left: 0;
+}
+
+.slides > li {
+	overflow: hidden;
+
+	ul {
+		position: relative;
+		padding-left: 1em;
+	}
+
+	li {
+		margin: .5em 0;
+		text-indent: 0;
+
+		&::before {
+			content: '›';
+			position: absolute;
+			left: 0;
+		}
+
+		& li {
+			padding-left: 0;
+			list-style-type: none;
+
+			&::before {
+				content: '•';
+			}
+		}
+	}
+}
+
+h3 {
+	letter-spacing: .01em;
+	color: $highlight;
+	line-height: 1.2;
+	font-weight: bold;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
+iframe {
+	width: 100%;
+	height: 100%;
+}
+
+cite {
+	font-style: normal;
+	line-height: 1.2;
+	font-size: 5vw;
+	display: block;
+	margin-bottom: 1em;
+}
+
+strong, abbr, cite {
+	font-weight: normal;
+	color: $highlight;
+}
+
+abbr {
+	text-decoration: none;
+
+	&::after {
+		color: $background;
+		content: " (" attr(title) ")";
+
+		.slides > li:not([data-theme]) & {
+			color: $mint;
+		}
+	}
+}
+
+twitterwidget {
+	margin-left: auto;
+	margin-right: auto;
+	transform: scale(1.5) rotate(0deg) !important;
+}
+
+[data-theme=secondary] {
+	background-color: $secondary !important;
+}
+
+[data-theme=tertiary] {
+	background-color: $tertiary !important;
+}
+
+[data-theme=info] {
+	background-color: $info !important;
+}
+
+[data-theme=white] {
+	background-color: $white !important;
+}
+
+[data-theme=mint] {
+	background-color: $mint !important;
+}
+
+[data-theme=white],
+[data-theme=mint] {
+	*, a {
+		color: $dark !important;
+	}
+
+	h2::after {
+		background-color: $dark;
+	}
+}
+
+figure {
+	width: 100%;
+
+	& figcaption {
+		padding: 0;
+		margin: 0;
+	}
+
+	&.images {
+		& ul {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			margin: 0;
+			padding: 0 !important;
+			list-style-type: none;
+		}
+
+		& li {
+			padding: 0 !important;
+			margin: 0 0 .75em 0 !important;
+			text-indent: 0 !important;
+
+			&::before {
+				display: none;
+			}
+		}
+	}
+
+	&.side-by-side {
+		> p {
+			width: 80%;
+			margin-top: 1em;
+		}
+
+		@media (min-aspect-ratio: 2/3) {
+			display: flex;
+
+			> p {
+				width: 50%;
+				margin-top: 0;
+				padding-left: 1em;
+				text-align: center;
+			}
+
+			> figcaption {
+				width: 50%;
+				padding-right: 1em;
+			}
+
+			&.two-one {
+				> p {
+					width: calc(100% / 3);
+				}
+
+				> figcaption {
+					width: calc(200% / 3);
+				}
+			}
+		}
+	}
+}
+
+[data-images="3"] li {
+	flex-basis: 48%;
+
+	@media (min-aspect-ratio: 2/3) {
+		flex-basis: 31%;
+	}
+}
+
+[data-images="2"] li {
+	@media (min-aspect-ratio: 2/3) {
+		flex-basis: 48%;
+	}
+}
+
+h2 small {
+	font-size: 50%;
+}
+
+em {
+	color: $highlight;
+	font-weight: normal;
+}
+
+q::before {
+	content: "»";
+}
+
+q::after {
+	content: "«";
+}
+
+.polaroid div {
+	background: white;
+	position: absolute;
+	margin: 0 !important;
+	padding: .5em .5em .2em;
+	text-align: center;
+	text-decoration: none;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
+	transition: all .15s linear;
+	z-index: 0;
+
+	&::after {
+		color: #333;
+		content: attr(title);
+		font-size: 60%;
+		display: block;
+		padding-top: .2em;
+		text-align: left;
+	}
+
+	img {
+		display: block;
+	}
+}
+
+table {
+	border-collapse: collapse;
+	margin-top: 1em;
+}
+
+td, th {
+	width: 3em;
+	text-align: center;
+	padding: 0;
+
+	&:first-child {
+		width: auto;
+		text-align: left;
+	}
+}
+
+footer {
+	margin-top: 3em;
+}
+
+.webaim {
+	width: 50%;
+	background-color: $white;
+	padding: 1em 0;
+
+	img {
+		width: 100%;
+	}
+}
+
+#wcag {
+	background-image: url(images/wcag.jpg);
+	background-size: auto 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#job twitter-widget {
+	transform: rotate(0deg) scale(2) translateX(50%) !important;
+}
+
+#tbl {
+	background-image: url(images/tim-berners-lee-line-mode.jpg);
+	background-size: cover;
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+
+.iframe section {
+	height: 100%;
+}
+
+iframe {
+	background-color: $white;
+	border: none;
+	height: 100%;
+}

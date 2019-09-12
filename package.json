@@ -1,0 +1,24 @@
+{
+    "name": "wke2018",
+    "version": "1.0.0",
+    "description": "",
+    "main": "public/index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jkphl/wke2018.git"
+    },
+    "author": "Joschi Kuphal",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jkphl/wke2018/issues"
+    },
+    "homepage": "https://github.com/jkphl/wke2018#readme",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-rename": "^1.4.0",
+        "slideshow": "github:jkphl/slideshow"
+    }
+}
