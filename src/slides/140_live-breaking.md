@@ -7,8 +7,8 @@ title: "Live-Breaking statt Live-Coding"
 <figure class="side-by-side">
 <figcaption>
 
-- Nicht durchzuhalten ...
-- (... ohne als Idiot dazustehen)
+- Nicht durchzuhalten …
+- (… ohne als Idiot dazustehen)
 
 </figcaption>
 

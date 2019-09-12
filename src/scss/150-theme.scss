@@ -90,6 +90,11 @@ strong, abbr, cite {
 	color: $highlight;
 }
 
+strong {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+
 abbr {
 	text-decoration: none;
 
@@ -315,4 +320,24 @@ iframe {
 	background-color: $white;
 	border: none;
 	height: 100%;
+}
+
+code {
+	background-color: $code;
+	color: $tertiary;
+	padding: 0 .2em;
+}
+
+pre {
+	background-color: $code;
+	color: $tertiary;
+	padding: 1em;
+	font-size: 50%;
+	width: 50%;
+
+	code {
+		background-color: transparent;
+		color: inherit;
+		padding: 0;
+	}
 }

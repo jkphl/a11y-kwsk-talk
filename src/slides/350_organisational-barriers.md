@@ -10,7 +10,7 @@ theme: tertiary
 - mangelndes Bewusstsein und fehlender Handlungswille in Sachen Barrierefreiheit
 - mangelnde technische Fertigkeiten
 - Angst vor hässlichen, eingeschränkten Ergebnissen
-- fehlendes Budget (z. B. für Gebärdensprach-Videos, alternative Aufbereitungen, einfache Sprache)
+- fehlendes Budget (z.B. für Gebärdensprach-Videos, alternative Aufbereitungen, einfache Sprache)
 
 </figcaption>
 <div class="webaim">

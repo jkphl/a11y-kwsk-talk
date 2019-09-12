@@ -13,6 +13,6 @@ Online verfügbar unter [https://jkphl.is/slides/jd19de/a11y](https://jkphl.is/s
 
 * `Bild Oben`, `←`, `↑`: Vorherige Folie
 * `Leerzeichen`, `Zeilenumbruch`, `Bild Oben`, `→`, `↓`: Nächste Folie
-* `Strg`: Mauszeiger ein- / ausblenden
-* `Hochstelltaste`: Interaktiven Modus aktivieren / deaktivieren (schrittweises Einblenden von Listenelementen)
+* `c`: Mauszeiger ein- / ausblenden
+* `i`: Interaktiven Modus aktivieren / deaktivieren (schrittweises Einblenden von Listenelementen)
 * `Esc`: Folienübersicht

@@ -2,7 +2,7 @@
 title: "Warum wir uns kümmern müssen"
 theme: tertiary
 ---
-## Weil ...
+## Weil …
 
 - wir mit unseren Websites möglichst viele Menschen erreichen möchten
 - sich die Gesetzeslage ändert
