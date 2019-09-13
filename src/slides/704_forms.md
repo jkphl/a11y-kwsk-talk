@@ -11,7 +11,7 @@ theme: tertiary
 - HTML5 `<input type="…">` nutzen
 - Formularelemente benötigen **immer** ein `<label>` — idealerweise vorangestellt, visuell darüber und mit `for="IDREF"`
 - `placeholder="…"` oder `title="…"` sind kein Ersatz für `<label>`
-- Fehlervalidierung verdient besondere Aufmerksamkeit
+- Felddarstellung sollte Eingabeerwartung wiederspiegeln
 - [Form Design Patterns](https://www.smashingmagazine.com/printed-books/form-design-patterns/) von Adam Silver
 
 </figcaption>

@@ -2,7 +2,7 @@
 title: "Beispiele für organisatorische Barrieren"
 theme: tertiary
 ---
-## <span class="visually-hidden">Beispiele für</span> Organisatorische Barrieren
+## Organisatorische Barrieren: Beispiele
 
 <figure class="side-by-side">
 <figcaption>

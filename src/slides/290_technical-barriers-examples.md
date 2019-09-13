@@ -2,7 +2,7 @@
 title: "Beispiele für technisch-funktionale Barrieren"
 theme: tertiary
 ---
-## <span class="visually-hidden">Beispiele für</span> Technisch-funktionale Barrieren
+## Technisch-funktionale Barrieren: Beispiele
 
 - fehlende oder fehlerhafte Struktur & Semantik (HTML)
 - mangelhafte Tastaturbedienbarkeit

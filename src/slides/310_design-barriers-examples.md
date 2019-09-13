@@ -2,7 +2,7 @@
 title: "Beispiele für Design-Barrieren"
 theme: tertiary
 ---
-## <span class="visually-hidden">Beispiele für</span> Design-Barrieren
+## Design-Barrieren: Beispiele
 
 - schlechte Nutzerführung, zu komplexe Abläufe (UX)
 - mangelhafte Textgestaltung (z.B. zu kleine Schrift, schwer lesbare Schriftart)

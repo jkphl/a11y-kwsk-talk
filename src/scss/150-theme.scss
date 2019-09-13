@@ -305,7 +305,7 @@ footer {
 	transform: rotate(0deg) scale(2) translateX(50%) !important;
 }
 
-#tbl {
+#demo {
 	background-image: url(images/tim-berners-lee-line-mode.jpg);
 	background-size: cover;
 	background-position: top right;
@@ -340,4 +340,14 @@ pre {
 		color: inherit;
 		padding: 0;
 	}
+}
+
+.demo {
+	background-color: rgba(255, 255, 255, .8);
+}
+
+.credit {
+	position: absolute;
+	bottom: 10vh;
+	right: 10vw;
 }
