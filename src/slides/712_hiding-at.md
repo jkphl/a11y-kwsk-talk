@@ -1,6 +1,6 @@
 ---
 title: "12. Inhalte für AT verstecken"
-css: css
+css: html aria css
 theme: tertiary
 ---
 ## 12. Inhalte für AT verstecken

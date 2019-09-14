@@ -1,6 +1,6 @@
 ---
 title: "19. Aussagekräftige Beschriftungen"
-css: content
+css: html content
 theme: tertiary
 ---
 ## 19. Aussagekräftige Beschriftungen

@@ -1,6 +1,6 @@
 ---
 title: "21. Alternative Aufbereitungen"
-css: content
+css: html content
 theme: tertiary
 ---
 ## 21. Alternative Aufbereitungen

@@ -351,3 +351,52 @@ pre {
 	bottom: 10vh;
 	right: 10vw;
 }
+
+.slides > li > ul.labels {
+	list-style-type: none;
+	position: absolute;
+	width: auto;
+	top: 0;
+	right: 10vw;
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+}
+
+.slides > li > ul li {
+	display: inline;
+	padding: .2em .5em;
+}
+
+.slides > li > ul li + li {
+	margin-left: .2em;
+}
+
+.slides > li > ul li:before {
+	content: '';
+}
+
+.slides > li > ul li.html {
+	background-color: $html;
+	color: white;
+}
+
+.slides > li > ul li.aria {
+	background-color: $aria;
+	color: white;
+}
+
+.slides > li > ul li.css {
+	background-color: $css;
+	color: white;
+}
+
+.slides > li > ul li.javascript {
+	background-color: $javascript;
+	color: black;
+}
+
+.slides > li > ul li.content {
+	background-color: $content;
+	color: white;
+}

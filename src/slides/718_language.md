@@ -1,6 +1,6 @@
 ---
 title: "18. Sprache"
-css: html
+css: html content
 theme: tertiary
 ---
 ## 18. Sprache

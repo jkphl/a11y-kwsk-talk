@@ -1,6 +1,6 @@
 ---
 title: "20. Alternativtexte für Grafiken & Bedienelemente"
-css: content
+css: html aria content
 theme: tertiary
 ---
 ## 20. Alternativtexte für Grafiken & Bedienelemente

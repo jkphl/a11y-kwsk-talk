@@ -1,6 +1,6 @@
 ---
 title: "11. Inhalte visuell verstecken"
-css: css
+css: html css
 theme: tertiary
 ---
 ## 11. Inhalte visuell verstecken
