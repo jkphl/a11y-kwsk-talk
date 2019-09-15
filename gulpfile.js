@@ -5,9 +5,9 @@ const rename = require('gulp-rename');
 gulp.task('default', function () {
     return gulp.src(['./src/slides/**/*.md', './src/scss/**/*.scss', './src/js/**/*.js'])
         .pipe(Slideshow.stream({
-            title: 'Kriegen wir schon kaputt! — Bildschirmpräsentation vom 13. September 2019',
+            title: 'Barrierefreiheit im Web — Bildschirmpräsentation vom 16. September 2019',
             author: 'Joschi Kuphal',
-            description: 'Let\'s ruin all the (accessible) things',
+            description: 'Grundlagen für Webdesigner, -entwickler & -redakteure',
             language: 'de',
             charset: 'UTF-8',
         }))

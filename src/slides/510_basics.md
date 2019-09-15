@@ -12,5 +12,5 @@ title: "Zutaten für barrierefreie Websites"
     <dt>Interaktion</dt>
     <dd>JavaScript</dd>
     <dt>Inhalt</dt>
-    <dd>Alternative Aufbereitungen, Leichte Sprache, etc.</dd>
+    <dd>Alternative Aufbereitungen, Einfache / Leichte / Leicht verständliche Sprache, etc.</dd>
 </dl>

@@ -12,7 +12,7 @@ theme: info
             <li>Rechtslage &amp; Regelwerke</li>
         </ul>
     </dd>
-    <dt>2. Grundlagen für Webentwickler &amp; -designer</dt>
+    <dt>2. Grundlagen für Webentwickler, -designer &amp; -redakteure</dt>
     <dd>
         <ul>
             <li>Struktur &amp; Semantik</li>
