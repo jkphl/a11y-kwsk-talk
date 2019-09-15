@@ -7,7 +7,8 @@
 
 ___
 
-Online verfügbar unter [https://jkphl.is/slides/jd19de/a11y](https://jkphl.is/slides/jd19de/a11y).
+Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/jd19de/a11y](https://jkphl.is/slides/jd19de/a11y). Eine Videoaufzeichnung des Vortrags findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
+
 
 #### Tastaturkürzel
 
