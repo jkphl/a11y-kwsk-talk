@@ -1,6 +1,6 @@
 # Kriegen wir schon kaputt
 
-### Ruin all the (accessible) things
+### Let's ruin all the (accessible) things
 
 > JoomlaDay™ Deutschland 2019<br/>
 > Vortragsfolien (Deutsch)
