@@ -1,13 +1,13 @@
-# Kriegen wir schon kaputt
+# Barrierefreiheit im Web
 
-### Let's ruin all the (accessible) things
+### Grundlagen für Designer, Entwickler & Redakteure
 
-> JoomlaDay™ Deutschland 2019<br/>
+> Workshop bei capito Nordbayern am 16.9.2019<br/>
 > Vortragsfolien (Deutsch)
 
 ___
 
-Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/jd19de/a11y](https://jkphl.is/slides/jd19de/a11y). Eine Videoaufzeichnung des Vortrags findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
+Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/capito/2019](https://jkphl.is/slides/capito/2019).
 
 
 #### Tastaturkürzel
