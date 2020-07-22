@@ -17,5 +17,5 @@ valign: middle
 <a href="https://jkphl.is" target="_blank" rel="me"><span class="p-given-name">Joschi</span> <span class="p-family-name">Kuphal</span></a> · <a href="https://twitter.com/jkphl" rel="me" target="_blank">@jkphl</a>
 </div>
 <div>
-Slides: <a href="https://jkphl.is/slides/diakonie/a11y" target="_top" rel="noopener">https://jkphl.is/slides/diakonie/a11y</a>
+Slides: <a href="https://jkphl.is/slides/wpnbg/a11y" target="_top" rel="noopener">https://jkphl.is/slides/wpnbg/a11y</a>
 </div>

@@ -2,12 +2,12 @@
 
 ### Let's ruin all the (accessible) things
 
-> JoomlaDay™ Deutschland 2019<br/>
+> Nürnberg WordPress Meetup am 21. November 2019<br/>
 > Vortragsfolien (Deutsch)
 
 ___
 
-Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/jd19de/a11y](https://jkphl.is/slides/jd19de/a11y). Eine Videoaufzeichnung des Vortrags findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
+Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/wpnbg/a11y](https://jkphl.is/slides/wpnbg/a11y). Eine Videoaufzeichnung des Vortrags vom JoomlaDay 2019 findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
 
 
 #### Tastaturkürzel
