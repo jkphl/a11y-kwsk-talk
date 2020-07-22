@@ -2,12 +2,12 @@
 
 ### Let's ruin all the (accessible) things
 
-> Nürnberg WordPress Meetup am 21. November 2019<br/>
+> WordPress Online Meetup Deutschland am 22. Juli 2020<br/>
 > Vortragsfolien (Deutsch)
 
 ___
 
-Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/wpnbg/a11y](https://jkphl.is/slides/wpnbg/a11y). Eine Videoaufzeichnung des Vortrags vom JoomlaDay 2019 findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
+Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/wpde/a11y](https://jkphl.is/slides/wpde/a11y). Eine Videoaufzeichnung des Vortrags vom JoomlaDay 2019 findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
 
 
 #### Tastaturkürzel
