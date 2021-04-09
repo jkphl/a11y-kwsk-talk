@@ -2,12 +2,12 @@
 
 ### Let's ruin all the (accessible) things
 
-> JoomlaDay™ Deutschland 2019<br/>
+> Fireside Chat, Coding Boocamps Europe, 9. April 2021<br/>
 > Vortragsfolien (Deutsch)
 
 ___
 
-Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/jd19de/a11y](https://jkphl.is/slides/jd19de/a11y). Eine Videoaufzeichnung des Vortrags findet sich auf Youtube unter [https://youtu.be/ddUs73l7Aw4](https://youtu.be/ddUs73l7Aw4). 
+Die Vortragsfolien sind online verfügbar unter [https://jkphl.is/slides/codebooteu/a11y](https://jkphl.is/slides/codebooteu/a11y). Eine Live-Stream bzw. eine Videoaufzeichnung des Vortrags findet sich auf Youtube unter [https://youtu.be/dLwHUT4XPFY](https://youtu.be/dLwHUT4XPFY). 
 
 
 #### Tastaturkürzel
