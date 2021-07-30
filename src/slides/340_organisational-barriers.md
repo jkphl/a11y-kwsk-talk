@@ -7,6 +7,6 @@ theme: tertiary
 sind bedingt durch **organisatorische Umstände** und das Umfeld, in dem Entscheidungen getroffen werden
 
 <ul>
-    <li>liegen im Verantwortungsbereich von <strong>Auftraggebern und Projektleitern</strong></li>
+    <li>liegen im Verantwortungsbereich von <strong>Auftraggebenden und Projektleiter*innen</strong></li>
     <li>benötigen <strong>Bewusstmachung, Aufklärung und Priorisierung</strong></li>
 </ul>

@@ -1,8 +1,8 @@
 ---
-title: "Spezielle Nutzer"
+title: "Spezielle Nutzende"
 theme: tertiary
 ---
-## Spezielle Nutzer
+## Spezielle Nutzende
 
 - Mobile Nutzer (eingeschränkte Internetverbindung, schwache technische Ausstattung, eingeschränkter Funktionsumfang)
 - Unerfahrene Nutzer

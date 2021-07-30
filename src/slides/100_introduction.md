@@ -8,4 +8,4 @@ theme: info
 * Agentur seit 2000
 * Fokus auf Barrierefreiheit
 * Qualifizierter BITV- / WCAG-Prüfer im BITV-Test-Prüfverbund
-* Initiator des [Accessibility Club](https://a11y.club)
+* Initiator & Hauptorganisator des [Accessibility Club](https://a11y.club)

@@ -1,7 +1,7 @@
 ---
-title: "Nutzer"
+title: "Nutzende"
 valign: middle
 ---
-## Nutzer
+## Nutzende
 
 Um wen geht es eigentlich?
